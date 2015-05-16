@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvTube.Web", "TvTube.Web\TvTube.Web.csproj", "{BB2CEC9D-6CE6-45E1-A28B-DB5F4031C177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvTube.Domain", "TvTube.Domain\TvTube.Domain.csproj", "{E665ADB5-F033-4496-8302-A6DE08E566C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvTube.Domain.Tests", "TvTube.Domain.Tests\TvTube.Domain.Tests.csproj", "{77BB2C93-B05E-4207-832A-2DF707958EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2CEC9D-6CE6-45E1-A28B-DB5F4031C177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2CEC9D-6CE6-45E1-A28B-DB5F4031C177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2CEC9D-6CE6-45E1-A28B-DB5F4031C177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2CEC9D-6CE6-45E1-A28B-DB5F4031C177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E665ADB5-F033-4496-8302-A6DE08E566C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E665ADB5-F033-4496-8302-A6DE08E566C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E665ADB5-F033-4496-8302-A6DE08E566C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E665ADB5-F033-4496-8302-A6DE08E566C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BB2C93-B05E-4207-832A-2DF707958EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BB2C93-B05E-4207-832A-2DF707958EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BB2C93-B05E-4207-832A-2DF707958EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BB2C93-B05E-4207-832A-2DF707958EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
